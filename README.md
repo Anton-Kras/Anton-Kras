@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Anton-Kras
+- 👀 I’m interested in Data mining, AI
+- 🌱 I’m currently learning Python
+
+
+<!---
+Anton-Kras/Anton-Kras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
